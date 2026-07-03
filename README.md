@@ -1,0 +1,48 @@
+## Hello, world! I am Fauzi Wahas 👋
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fauzi-wahas-527507135/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/thatgloomyafternoon" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+I am a Software Engineer currently working as Software Engineer II at [BukuWarung](https://bukuwarung.com/) (YC S20).
+
+My journey began in 2012 when I successfully flashed an AT89S51 module with LED-blink firmware. That experience had me locked in, leading to my first paid commission in 2013: designing and implementing an Atmel AVR-based device for a college project. That project eventually resulted in a published paper &#x1F389; (http://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_0117_5623.pdf). From that point forward, my career has spanned a diverse range of domains—including low-level programming, tool development, frontend and backend game development, and IoT.
+
+Currently, I specialize in lending platform development within the fintech space. Since 2018, I have focused on backend engineering, with a deep specialization in Java since 2020.
+
+### My public works
+
+* Supply Chain Management Service ([Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Full-stack) A supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
+* Custom-POS ([Repo](https://github.com/thatgloomyafternoon/custom-pos)) — (Full-stack) A simple point-of-sales with menu management, order management, and transaction history.
+* Custom-HR ([Repo](https://github.com/thatgloomyafternoon/dbro-backend)) — (Backend) A custom HR service with attendance, payroll, and outlet management.
+* To-Do App ([Repo](https://github.com/thatgloomyafternoon/to-do-app)) — (Full-stack) A simple web-based to-do app using Spring Boot & PostgreSQL.
+* System Checking App — (Desktop) (WIP)
+* IoT-Backend — (Backend) (WIP)
+* Battle-City — (Game) (WIP)
+
+### My stacks
+URL for the badges are obtained from this [source](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img alt="JUnit" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Flyway" src="https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" />
+  <img alt="Datadog" src="https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
