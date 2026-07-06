@@ -13,6 +13,7 @@ Currently, I specialize in lending platform development within the fintech space
 
 ### My public works
 
+* Leet-Code ([Repo](https://github.com/fw-43/leet-code)) — Just my leet-code progress.
 * Supply Chain Management Service ([Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Full-stack) A supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
 * Custom-POS ([Repo](https://github.com/thatgloomyafternoon/custom-pos)) — (Full-stack) A simple point-of-sales with menu management, order management, and transaction history.
 * Custom-HR ([Repo](https://github.com/thatgloomyafternoon/dbro-backend)) — (Backend) A custom HR service with attendance, payroll, and outlet management.
@@ -44,7 +45,7 @@ URL for the badges are obtained from this [source](https://github.com/alexandres
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
 
 <!--
