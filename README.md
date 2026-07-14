@@ -14,8 +14,12 @@ Currently, I specialize in lending platform development within the fintech space
 ### My public works
 
 * Leet-Code ([Repo](https://github.com/fw-43/leet-code)) — Just my leet-code progress in Java.
+* Custom-PoS ([Repo](https://github.com/fw-43/custom-pos)) — (Full-stack) A simple point-of-sales with menu management, order management, and transaction history.
+* ...
+* ...
+* ...
+* ...
 * Supply Chain Management Service ([Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Full-stack) A supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
-* Custom-POS ([Repo](https://github.com/thatgloomyafternoon/custom-pos)) — (Full-stack) A simple point-of-sales with menu management, order management, and transaction history.
 * Custom-HR ([Repo](https://github.com/thatgloomyafternoon/dbro-backend)) — (Backend) A custom HR service with attendance, payroll, and outlet management.
 * To-Do App ([Repo](https://github.com/thatgloomyafternoon/to-do-app)) — (Full-stack) A simple web-based to-do app using Spring Boot & PostgreSQL.
 * System Checking App — (Desktop) (WIP)
