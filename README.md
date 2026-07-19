@@ -27,7 +27,7 @@ Currently, I specialize in lending platform development within the fintech space
 * Supply Chain Management Service ([Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Full-stack) A supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
 * System Checking App — (Desktop) (WIP)
 * IoT-Backend — (Backend) (WIP)
-* Battle-City — (Game) (WIP)
+* Battle-City — (SNES-Rewrite) (WIP)
 
 ### My stacks
 URL for the badges are obtained from this [source](https://github.com/alexandresanlim/Badges4-README.md-Profile)
