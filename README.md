@@ -26,7 +26,6 @@ Currently, I specialize in lending platform development within the fintech space
 * ...
 * ...
 * Supply Chain Management Service ([Repo](https://github.com/thatgloomyafternoon/iron-gate)) — (Full-stack) A supply chain management application using Java Spring Boot and React, featuring real-time dashboard analytics, automated order simulation, and role-based access control.
-* System Checking App — (Desktop) (WIP)
 * IoT-Backend — (Backend) (WIP)
 * Battle-City — (SNES-Rewrite) (WIP)
 
