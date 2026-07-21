@@ -15,6 +15,7 @@ Currently, I specialize in lending platform development within the fintech space
 
 * Leet-Code ([Repo](https://github.com/fw-43/leet-code)) — Just my leet-code progress in Java.
 * PostgreSQL VARCHAR Storage Size ([Repo](https://github.com/fw-43/postgres-varchar-storage-size)) — A simple experiment related to PostgreSQL `VARCHAR`
+* Ubuntu System Checking App ([Repo](https://github.com/fw-43/ubuntu-system-checking-app)) — (Desktop) Ubuntu 22.04.4 LTS Personalized System Checking
 * Custom-PoS ([Repo](https://github.com/fw-43/custom-pos)) — (Full-stack) A simple point-of-sales with menu management, order management, and transaction history.
 * To-Do App ([Repo](https://github.com/fw-43/to-do-app)) — (Full-stack) A simple web-based to-do app.
 * Custom-HR ([Repo](https://github.com/fw-43/custom-hr)) — (Backend) A custom HR service with attendance system, payroll service, and outlet management.
