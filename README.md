@@ -11,7 +11,7 @@ My journey began in 2012 when I successfully flashed an AT89S51 module with LED-
 
 Currently, I specialize in lending platform development within the fintech space. Since 2018, I have focused on backend engineering, with a deep specialization in Java since 2020.
 
-### Public Works
+### Public Repositories
 
 * Leet-Code ([Repo](https://github.com/fw-43/leet-code)) — Just my leet-code progress in Java.
 * PostgreSQL VARCHAR Storage Size ([Repo](https://github.com/fw-43/postgres-varchar-storage-size)) — A simple experiment related to PostgreSQL `VARCHAR`
