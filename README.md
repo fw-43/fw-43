@@ -13,6 +13,7 @@ Currently, I specialize in lending platform development within the fintech space
 
 ### Public Repositories
 
+* Code Editor ([Repo](https://github.com/fw-43/code-editor)) — My daily driver for writing code.
 * Leet-Code ([Repo](https://github.com/fw-43/leet-code)) — Just my leet-code progress in Java.
 * PostgreSQL VARCHAR Storage Size ([Repo](https://github.com/fw-43/postgres-varchar-storage-size)) — A simple experiment related to PostgreSQL `VARCHAR`
 * String Immutability ([Repo](https://github.com/fw-43/string-immutability)) — A little experiment to showcase String immutability in Java environment.
